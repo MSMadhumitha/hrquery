@@ -1,0 +1,27 @@
+NOVATECH SOLUTIONS INC. — EMPLOYEE RESIGNATION AND EXIT POLICY
+[FICTIONAL SAMPLE DOCUMENT FOR INTERNAL RAG TESTING]
+Effective Date: January 1, 2024
+Document ID: NTS-POL-HR-008-REV3
+
+1. PURPOSE & SCOPE
+This policy establishes the formal protocols and operational procedures governing voluntary employee resignations, notice periods, asset handovers, and full-and-final settlement at NovaTech Solutions Inc.
+
+2. NOTICE PERIOD REQUIREMENTS
+What is the resignation notice period?
+- Individual Contributors (Engineers, Analysts, Designers, Coordinators): Required notice period is thirty (30) calendar days.
+- People Managers, Technical Leads, and Project Managers: Required notice period is sixty (60) calendar days.
+- Directors, Vice Presidents, and Executive Officers: Required notice period is ninety (90) calendar days.
+
+The notice period commences on the business day on which formal written resignation is submitted via email to both the direct reporting manager and the Human Resources Department (hr-exits@novatech-fictional.com).
+
+3. NOTICE PERIOD BUYOUT AND WAIVERS
+Waiver of any portion of the contractual notice period is at the sole discretion of the Department Head and the VP of Human Resources. If an employee requests an early release and it is mutually agreed upon, a notice buyout calculation will apply based on base salary pro-rata.
+
+4. ASSET RETURN AND KNOWLEDGE TRANSFER HANDOVER
+Prior to the last working day (LWD), the departing employee must:
+- Complete a comprehensive Knowledge Transfer (KT) document detailing current projects, credentials, and unresolved tasks.
+- Return all NovaTech property, including company-issued laptops, access keycards, monitors, peripheral equipment, and corporate credit cards to the IT Asset Management department.
+- Complete the Exit Clearance form signed off by IT, Finance, and Facilities.
+
+5. FULL AND FINAL SETTLEMENT (F&F)
+The full and final financial settlement, including encashment of eligible accumulated earned leaves, unpaid regular salary, and statutory deductions, will be finalized and transferred to the employee's registered bank account within thirty (30) calendar days following the official last working day.

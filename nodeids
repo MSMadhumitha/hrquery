@@ -1,0 +1,12 @@
+[
+  "tests/test_chunking.py::test_chunker_empty_input",
+  "tests/test_chunking.py::test_chunker_initialization",
+  "tests/test_chunking.py::test_chunker_paragraph_boundary_awareness",
+  "tests/test_chunking.py::test_chunker_preserves_metadata",
+  "tests/test_grounding.py::test_grounding_fallback_exact_string",
+  "tests/test_grounding.py::test_out_of_scope_questions_trigger_fallback",
+  "tests/test_grounding.py::test_source_attribution_formatting",
+  "tests/test_retrieval.py::test_document_loader_formats",
+  "tests/test_retrieval.py::test_retrieval_accuracy_on_hr_queries",
+  "tests/test_retrieval.py::test_vector_store_persistence"
+]
